@@ -14,10 +14,12 @@ namespace CF_GitExample_Neo.Controllers
             return View();
         }
 
-        // GET: Neo
-        public ActionResult Sean()
+        // GET: June
+        public ActionResult June()
         {
             return View();
         }
     }
+
+   
 }

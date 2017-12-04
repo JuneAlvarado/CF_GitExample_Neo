@@ -191,7 +191,6 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\JuneController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Controllers\NeoController.cs" />
     <Compile Include="Global.asax.cs">
@@ -262,8 +261,7 @@
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Neo\Index.cshtml" />
     <Content Include="Views\Neo\Sean.cshtml" />
-    <Content Include="Views\June\June.cshtml" />
-    <Content Include="Views\June\Index.cshtml" />
+    <Content Include="Views\Neo\June.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
